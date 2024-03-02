@@ -1,0 +1,28 @@
+/* Customize your styles here */
+/* Example styles for navigation bar, sections, footer, etc. */
+
+/* Navbar */
+.navbar {
+    background-color: #ffcccb;
+    padding: 20px;
+}
+
+.navbar-logo {
+    font-size: 24px;
+    margin-right: 10px;
+}
+
+.navbar-links li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+/* Sections */
+.home-section {
+    background-color: #f0e68c;
+    color: #333;
+    text-align: center;
+    padding: 50px 0;
+}
+
+.contact
